@@ -20,5 +20,8 @@
 		"svelte": "^4.0.5",
 		"vite": "^4.4.2"
 	},
+	"dependencies": {
+		"deta": "next"
+	},
 	"type": "module"
 }
